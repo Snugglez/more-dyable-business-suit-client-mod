@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "More Dyable Business Suits",
+	"category": "client",
+	"description": "Makes dyable business suits more, well, dyable",
+	"author": "Snug",
+	"options": {
+		"guiName": "Costume: More Dyable Business Suits",
+		"niceName": "More Dyable Business Suits"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/more-dyable-business-suit-client-mod/master/"
+	]
+}
